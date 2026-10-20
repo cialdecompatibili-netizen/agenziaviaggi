@@ -1,3 +1,6 @@
+# LAZIO IN VIAGGIO (agenzia di viaggi) - 20/10/2026
+Questa repo e' il clone di prodottidigitali riscritto come agenzia di viaggi DIGITALE (brand provvisorio Lazio in Viaggio): partenza da Mentana, Roma e tutto il Lazio. 6 categorie, 18 prodotti demo (pre-iscrizione a gite in autobus e guide PDF) con copertine SVG in `assets/img/viaggi/`. Generato da `claudetemp\rebrand_viaggi.py` (dati in `viaggi_data.py`, rilanciabile). Nessun pagamento. ATTENZIONE: vendere gite organizzate richiede i requisiti di legge per le agenzie di viaggio, assicurazione e un partner con autobus autorizzato: da verificare prima di incassare. Le sezioni sotto descrivono ancora prodottidigitali: la struttura tecnica e' identica.
+
 # prodottidigitali
 
 Sito Jekyll su GitHub Pages: https://cialdecompatibili-netizen.github.io/prodottidigitali/ (repo cialdecompatibili-netizen/prodottidigitali, cartella Desktop\repository\prodottidigitali). Clone di serverai, da riscrivere come negozio di prodotti digitali.
