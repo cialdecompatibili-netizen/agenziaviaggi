@@ -33,18 +33,20 @@
 # =====================================================================================
 
 Viaggi:
-  - title: "Gite in autobus da Mentana e Roma"
-    url: "/negozio/categoria/gite-autobus/"
+  - title: "Weekend e viaggi guidati di piu’ giorni"
+    url: "/negozio/categoria/weekend-guidati/"
+  - title: "Gite guidate in giornata"
+    url: "/negozio/categoria/gite-guidate/"
+  - title: "Vino e sapori del Lazio"
+    url: "/negozio/categoria/vino-sapori/"
   - title: "Neve e inverno nel Lazio"
     url: "/negozio/categoria/neve-inverno/"
   - title: "Roma di notte"
     url: "/negozio/categoria/roma-di-notte/"
-  - title: "Borghi e Castelli Romani"
-    url: "/negozio/categoria/borghi-castelli/"
-  - title: "Roma: itinerari e visite"
-    url: "/negozio/categoria/roma-itinerari/"
-  - title: "Laghi, mare e natura"
-    url: "/negozio/categoria/laghi-mare-natura/"
+  - title: "Roma: tour guidati a piedi"
+    url: "/negozio/categoria/roma-tour-guidati/"
+  - title: "Guide e itinerari digitali"
+    url: "/negozio/categoria/guide-digitali/"
   - divider: true
   - title: "Tutti i viaggi"
     url: "/negozio/"

@@ -3,7 +3,7 @@ title: Lazio in Viaggio
 baseurl: "/agenziaviaggi"
 url: "https://cialdecompatibili-netizen.github.io"
 email: ""
-description: "Lazio in Viaggio: gite in autobus da Mentana e Roma, neve in inverno, Roma di notte, guide digitali e itinerari per tutto il Lazio."
+description: "Lazio in Viaggio: tour guidati nel Lazio con partenze su richiesta, neve in inverno, Roma di notte, guide digitali e itinerari per tutto il Lazio."
 footer_text: "&copy; 2026 Lazio in Viaggio"
 minimal_mistakes_skin: default
 search: true
@@ -11,7 +11,7 @@ search: true
 # SEO globale
 author:
   name: "Lazio in Viaggio"
-  bio: "Gite in autobus, guide e itinerari per Roma e il Lazio. Pre-iscriviti senza pagamento."
+  bio: "Tour guidati, weekend e guide digitali per Roma e il Lazio. Pre-iscriviti senza pagamento."
   links:
     - label: "Scrivici"
       icon: "fas fa-fw fa-envelope"
